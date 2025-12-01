@@ -13,5 +13,4 @@ catboost_info/
 *checkpoint*
 *.log
 *.csv
-!test.csv
 *.html
