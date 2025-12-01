@@ -1,1 +1,17 @@
 venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+catboost_info/
+*.tsv
+*.tmp
+*.json
+*.tfevents
+*.joblib
+*.pkl
+*cache*
+*checkpoint*
+*.log
+*.csv
+!test.csv
+*.html
